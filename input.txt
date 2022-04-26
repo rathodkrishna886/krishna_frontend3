@@ -1,0 +1,21 @@
+input
+    text input 
+        using keyboard/mouse
+
+        type of text input 
+            single line input  (email,mobile,password,city,amount,date of birth)
+            selection base input (select gender, select country,state,ctity,hobbies,language)
+            multiline input  (feedback,address,content,product description)
+    binary input 
+        using files/
+            photos,documents,zip etc 
+
+to accept any type of input you need only four tags 
+    input 
+        email,mobile,password,city,amount,date of birth gender,hobbies,language,file
+    select
+        select is used to select option from list 
+    textarea 
+        feedback,address,content,product description
+    button 
+        for buttons 
